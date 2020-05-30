@@ -1,5 +1,7 @@
 # libroAI
-Codice presentato nel libro "Algoritmi per l'Intelligenza Artificiale" \n
-scritto da Roberto Marmo per editore Hoepli \n
+Codice presentato nel libro "Algoritmi per l'Intelligenza Artificiale"
+
+scritto da Roberto Marmo per editore Hoepli 
+
 sito web https://www.algoritmiia.it/libro/   email ia@robertomarmo.net
 
