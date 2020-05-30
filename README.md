@@ -5,4 +5,4 @@ scritto da Roberto Marmo per editore Hoepli
 
 sito web https://www.algoritmiia.it/libro/   email ia@robertomarmo.net
 
-<img class="aligncenter size-full" alt="Libro Algoritmi Intelligenza Artificiale" src="https://robertomarmo.net/files/copertina_intelligenza_artificiale1.jpg" width="300" />
+<a href="https://www.algoritmiia.it/libro/"><img src="https://robertomarmo.net/files/copertina_intelligenza_artificiale1.jpg"  width="300"></a>
